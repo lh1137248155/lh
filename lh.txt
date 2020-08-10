@@ -1,0 +1,4 @@
+问题一:如果虚拟机网络连接处出现"问号?",说明网络就有问题,输入下面两条重启网络服务指令可解决此问题.
+sudo nmcli networking off
+sudo nmcli networking on
+
